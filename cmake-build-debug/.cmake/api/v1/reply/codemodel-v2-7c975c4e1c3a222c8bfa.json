@@ -1,0 +1,159 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "BookStorage",
+					"jsonFile" : "directory-BookStorage-Debug-3c5f51cb6741bf5a684c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "BookStorage",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "userMenu",
+					"jsonFile" : "directory-userMenu-Debug-6b849d37a79a54b90aab.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "userMenu",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "adminMenu",
+					"jsonFile" : "directory-adminMenu-Debug-dc97954b15f13d5db430.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "adminMenu",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "4lab"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "BookStorage",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "userMenu",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "adminMenu",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "BookStorage::@7a3eddd20fd18da6d7dd",
+					"jsonFile" : "target-BookStorage-Debug-e8b750531c9f0f5f8ac4.json",
+					"name" : "BookStorage",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "adminMenu::@d1acf52d400f6bc041b5",
+					"jsonFile" : "target-adminMenu-Debug-acc48abbb021a47926a0.json",
+					"name" : "adminMenu",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "userMenu::@ac80801abb6248f8a885",
+					"jsonFile" : "target-userMenu-Debug-3e8058afe9f1ba911fab.json",
+					"name" : "userMenu",
+					"projectIndex" : 2
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/gnatk/CLionProjects/4lab/cmake-build-debug",
+		"source" : "C:/Users/gnatk/CLionProjects/4lab"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

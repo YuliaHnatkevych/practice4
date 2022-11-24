@@ -1,0 +1,3 @@
+C:/Users/gnatk/CLionProjects/4lab/BookStorage/cmake-build-debug/CMakeFiles/BookStorage.dir
+C:/Users/gnatk/CLionProjects/4lab/BookStorage/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gnatk/CLionProjects/4lab/BookStorage/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/gnatk/CLionProjects/4lab/userMenu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/gnatk/CLionProjects/4lab/userMenu/cmake-build-debug/CMakeFiles/userMenu.dir
+C:/Users/gnatk/CLionProjects/4lab/userMenu/cmake-build-debug/CMakeFiles/edit_cache.dir

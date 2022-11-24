@@ -1,0 +1,11 @@
+C:/Users/gnatk/CLionProjects/4lab/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gnatk/CLionProjects/4lab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/gnatk/CLionProjects/4lab/cmake-build-debug/BookStorage/CMakeFiles/BookStorage.dir
+C:/Users/gnatk/CLionProjects/4lab/cmake-build-debug/BookStorage/CMakeFiles/edit_cache.dir
+C:/Users/gnatk/CLionProjects/4lab/cmake-build-debug/BookStorage/CMakeFiles/rebuild_cache.dir
+C:/Users/gnatk/CLionProjects/4lab/cmake-build-debug/userMenu/CMakeFiles/rebuild_cache.dir
+C:/Users/gnatk/CLionProjects/4lab/cmake-build-debug/userMenu/CMakeFiles/userMenu.dir
+C:/Users/gnatk/CLionProjects/4lab/cmake-build-debug/userMenu/CMakeFiles/edit_cache.dir
+C:/Users/gnatk/CLionProjects/4lab/cmake-build-debug/adminMenu/CMakeFiles/adminMenu.dir
+C:/Users/gnatk/CLionProjects/4lab/cmake-build-debug/adminMenu/CMakeFiles/edit_cache.dir
+C:/Users/gnatk/CLionProjects/4lab/cmake-build-debug/adminMenu/CMakeFiles/rebuild_cache.dir
